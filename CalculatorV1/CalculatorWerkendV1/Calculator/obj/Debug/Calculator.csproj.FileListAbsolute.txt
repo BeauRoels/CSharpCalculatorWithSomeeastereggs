@@ -1,0 +1,41 @@
+D:\Handelsschool\2017-2018\C#\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Handelsschool\2017-2018\C#\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Handelsschool\2017-2018\C#\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Handelsschool\2017-2018\C#\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Handelsschool\2017-2018\C#\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Handelsschool\2017-2018\C#\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Handelsschool\2017-2018\C#\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Handelsschool\2017-2018\C#\Calculator\Calculator - kopie\Calculator\bin\Debug\Calculator.exe.config
+D:\Handelsschool\2017-2018\C#\Calculator\Calculator - kopie\Calculator\bin\Debug\Calculator.exe
+D:\Handelsschool\2017-2018\C#\Calculator\Calculator - kopie\Calculator\bin\Debug\Calculator.pdb
+D:\Handelsschool\2017-2018\C#\Calculator\Calculator - kopie\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Handelsschool\2017-2018\C#\Calculator\Calculator - kopie\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Handelsschool\2017-2018\C#\Calculator\Calculator - kopie\Calculator\obj\Debug\Calculator.exe
+D:\Handelsschool\2017-2018\C#\Calculator\Calculator - kopie\Calculator\obj\Debug\Calculator.pdb
+D:\Handelsschool\2017-2018\C#\Calculator\CalculatorWerkend\Calculator\bin\Debug\Calculator.exe.config
+D:\Handelsschool\2017-2018\C#\Calculator\CalculatorWerkend\Calculator\bin\Debug\Calculator.exe
+D:\Handelsschool\2017-2018\C#\Calculator\CalculatorWerkend\Calculator\bin\Debug\Calculator.pdb
+D:\Handelsschool\2017-2018\C#\Calculator\CalculatorWerkend\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Handelsschool\2017-2018\C#\Calculator\CalculatorWerkend\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Handelsschool\2017-2018\C#\Calculator\CalculatorWerkend\Calculator\obj\Debug\Calculator.exe
+D:\Handelsschool\2017-2018\C#\Calculator\CalculatorWerkend\Calculator\obj\Debug\Calculator.pdb
+U:\C#\Calculator(2)\Calculator\CalculatorWerkend\Calculator\bin\Debug\Calculator.exe.config
+U:\C#\Calculator(2)\Calculator\CalculatorWerkend\Calculator\obj\Debug\Calculator.exe
+U:\C#\Calculator(2)\Calculator\CalculatorWerkend\Calculator\obj\Debug\Calculator.pdb
+U:\C#\Calculator(2)\Calculator\CalculatorWerkend\Calculator\bin\Debug\Calculator.exe
+U:\C#\Calculator(2)\Calculator\CalculatorWerkend\Calculator\bin\Debug\Calculator.pdb
+U:\C#\Calculator(2)\Calculator\CalculatorWerkend\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Handelsschool\2017-2018\C#\CalculatorV1\CalculatorWerkendLocalswerkenMaarRekenenNiet\Calculator\bin\Debug\Calculator.exe.config
+D:\Handelsschool\2017-2018\C#\CalculatorV1\CalculatorWerkendLocalswerkenMaarRekenenNiet\Calculator\bin\Debug\Calculator.exe
+D:\Handelsschool\2017-2018\C#\CalculatorV1\CalculatorWerkendLocalswerkenMaarRekenenNiet\Calculator\bin\Debug\Calculator.pdb
+D:\Handelsschool\2017-2018\C#\CalculatorV1\CalculatorWerkendLocalswerkenMaarRekenenNiet\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Handelsschool\2017-2018\C#\CalculatorV1\CalculatorWerkendLocalswerkenMaarRekenenNiet\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Handelsschool\2017-2018\C#\CalculatorV1\CalculatorWerkendLocalswerkenMaarRekenenNiet\Calculator\obj\Debug\Calculator.exe
+D:\Handelsschool\2017-2018\C#\CalculatorV1\CalculatorWerkendLocalswerkenMaarRekenenNiet\Calculator\obj\Debug\Calculator.pdb
+D:\Handelsschool\2017-2018\C#\CalculatorV1\CalculatorWerkendV1\Calculator\bin\Debug\Calculator.exe.config
+D:\Handelsschool\2017-2018\C#\CalculatorV1\CalculatorWerkendV1\Calculator\bin\Debug\Calculator.exe
+D:\Handelsschool\2017-2018\C#\CalculatorV1\CalculatorWerkendV1\Calculator\bin\Debug\Calculator.pdb
+D:\Handelsschool\2017-2018\C#\CalculatorV1\CalculatorWerkendV1\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Handelsschool\2017-2018\C#\CalculatorV1\CalculatorWerkendV1\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Handelsschool\2017-2018\C#\CalculatorV1\CalculatorWerkendV1\Calculator\obj\Debug\Calculator.exe
+D:\Handelsschool\2017-2018\C#\CalculatorV1\CalculatorWerkendV1\Calculator\obj\Debug\Calculator.pdb
